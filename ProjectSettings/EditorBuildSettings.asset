@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 184f96005b3f778408f19938b696e47a
+  - enabled: 1
+    path: Assets/PolygonCity/Scenes/Demo.unity
+    guid: 35299a6a99d6dfe4bb709527ba95aab0
+  m_configObjects: {}
